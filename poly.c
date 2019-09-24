@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+nt main()
 {
 	float p1[100], p2[100], res[100];
 	int i, deg1, deg2, rdeg;
